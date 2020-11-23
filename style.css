@@ -1,0 +1,26 @@
+
+ h1{text-align: center;
+     color: blue
+ 
+}
+body{
+    background-image: url("java-minimalism-wide-1366x768.jpg");
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    margin-right: 30px;
+
+}
+.menu a{
+    margin-left: 20px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
